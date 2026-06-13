@@ -2,8 +2,10 @@ name: compass
 channels:
   - conda-forge
   - defaults
-dependencies:
+dependencies: 
   - python=3.10
+  - pip
+  - pip-system-certs
   - bokeh
   - gensim
   - ipykernel
