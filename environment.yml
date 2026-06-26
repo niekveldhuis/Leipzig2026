@@ -1,4 +1,4 @@
-name: Leipzig_lexicography
+name: lexicography
 channels:
   - conda-forge
   - defaults
@@ -12,11 +12,11 @@ dependencies:
   - ipywidgets
   - jupyterlab
   - matplotlib
+  - nltk
   - numpy
   - pandas
   - requests
   - scipy=1.10.1
   # gensim 4.3.2 is incompatible with scipy 1.13 or higher
   - tqdm
-  
   
