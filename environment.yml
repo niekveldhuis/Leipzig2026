@@ -13,6 +13,7 @@ dependencies:
   - jupyterlab
   - matplotlib
   - nltk
+  - scikit-learn
   - numpy
   - pandas
   - requests
