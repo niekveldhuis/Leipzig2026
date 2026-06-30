@@ -10,7 +10,7 @@ If you wish to use and adapt the code for your own purposes, take the following 
 - use the Terminal (OS X) or Anaconda Powershell Prompt (Windows; installed with Anaconda) to create the Leipzig_lexicography environment.
     - navigate to the directory you just created
     - create the environment with `conda env create -f environment.yml` (this takes some time).
-    - activate the environment with `conda activate Leipzig_lexicography`.
+    - activate the environment with `conda activate lexicography`.
 - now open `jupyter lab` (still from your terminal/Anaconda Powershell prompt).
 
 This will open a window where you can open and run the file `Leipzig2026.ipynb`.
